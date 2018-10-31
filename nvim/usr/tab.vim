@@ -1,0 +1,10 @@
+" 行番号の表示
+set number
+" インデント幅
+set shiftwidth=2
+" タブキー押下時に挿入される文字幅を指定
+set softtabstop=2
+" ファイル内にあるタブ文字の表示幅
+set tabstop=2
+" タブ入力を空白に置き換える
+set expandtab
