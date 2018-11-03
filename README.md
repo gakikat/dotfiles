@@ -1,4 +1,4 @@
-example init.vim
+example $HOME/.config/nvim/init.vim
 
   ```
   1 "initialize NeoVim
