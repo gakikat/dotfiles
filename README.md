@@ -1,5 +1,6 @@
 exsample init.vim
 
+  ```
   1 "initialize NeoVim
   2 set encoding=utf-8
   3 scriptencoding utf-8
@@ -24,3 +25,4 @@ exsample init.vim
  22 
  23 "initialize seiya
  24 let g:seiya_auto_enable=1
+```
