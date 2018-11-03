@@ -1,4 +1,4 @@
-exsample init.vim
+example init.vim
 
   ```
   1 "initialize NeoVim
