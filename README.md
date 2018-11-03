@@ -1,4 +1,5 @@
-example $HOME/.config/nvim/init.vim
+put init.vim below directory
+$HOME/.config/nvim/init.vim
 
   ```
   1 "initialize NeoVim
